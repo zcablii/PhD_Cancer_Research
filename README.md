@@ -19,3 +19,9 @@ https://www.cell.com/molecular-therapy-family/oncolytics/fulltext/S2372-7705(21)
  
 ## New 3GB mRNA datasets:
 https://drive.google.com/drive/folders/1WOOtC56mPvUpAOgf8nt7q2bMX9J_VqPK?usp=sharing
+
+## TODO
+Gene co-expressison network construction
+Gene embedding (like word embedding)
+GNN on Gene co-expressison network
+Reduced dimensional clustering diagram: PCA,t-SNE,UMAP for cluster visualisation
