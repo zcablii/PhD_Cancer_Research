@@ -23,5 +23,5 @@ https://drive.google.com/drive/folders/1WOOtC56mPvUpAOgf8nt7q2bMX9J_VqPK?usp=sha
 ## TODO
 #### Gene co-expressison network construction
 #### Gene embedding (like word embedding)
-#### GNN on Gene co-expressison network
+#### Graph Nerual Networks (GNN) on Gene co-expressison network
 #### Reduced dimensional clustering diagram: PCA,t-SNE,UMAP for cluster visualisation
